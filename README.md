@@ -16,8 +16,8 @@
 
 <!-- Spotify Embed -->
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=1y5A8u-kktA" target="_blank">
-    <img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300" alt="Currently Playing" />
+  <a href="https://www.youtube.com/watch?v=MKCyUe4syc4" target="_blank">
+    <img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300" alt="Currently Playing: Superman by Eminem" />
   </a>
 </p>
 
@@ -29,8 +29,8 @@
   <a href="https://twitter.com/raajz49" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Raajz's Twitter" />
   </a>
-  <a href="https://www.facebook.com/raajz49" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Raajz's Facebook" />
+  <a href="https://www.rajkoirala.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Raajz's Website" />
   </a>
 </p>
 <br />
