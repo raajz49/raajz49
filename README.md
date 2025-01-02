@@ -17,9 +17,10 @@
 <!-- Spotify Embed -->
 <p align="center">
   <a href="https://www.youtube.com/watch?v=MKCyUe4syc4" target="_blank">
-    <img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300" alt="Currently Playing: Superman by Eminem" />
+    <img src="https://img.shields.io/badge/Now%20Playing-Superman%20by%20Eminem-F75C7E?style=for-the-badge&logo=youtube&logoColor=white" alt="Currently Playing: Superman by Eminem" />
   </a>
 </p>
+
 
 <!-- Social Links -->
 <p align="center">
