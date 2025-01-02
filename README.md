@@ -15,12 +15,19 @@
 </div>
 
 <!-- Spotify Embed -->
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<p align="center">
+  <a href="https://open.spotify.com/collection/tracks" target="_blank">
+    <img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Currently Playing on Spotify" height="130" width="300" />
+  </a>
+</p>
+
+<!-- Custom Image for Superman by Eminem -->
 <p align="center">
   <a href="https://www.youtube.com/watch?v=MKCyUe4syc4" target="_blank">
     <img src="https://i.imgur.com/r9xlzGd.png" height="130" width="300" alt="Currently Playing: Superman by Eminem" />
   </a>
 </p>
+
 
 
 
