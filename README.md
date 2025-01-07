@@ -48,9 +48,10 @@
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/raajz49">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raajz49&theme=radical&border=F75C7E&background=0D1117" alt="Raajz's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=raajz49&theme=radical&hide_border=true&border_radius=4.5&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakNum=F75C7E&sideNums=F75C7E&currStreakLabel=F75C7E&sideLabels=F8D866&dates=F8D866" alt="Raajz's GitHub Streak" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/raajz49">
