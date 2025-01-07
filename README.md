@@ -47,10 +47,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
- <a href="https://github.com/raajz49">
-  <img src="https://streak-stats.demolab.com/?user=raajz49&theme=radical&border=7F3FBF&background=0D1117" alt="Raajz's GitHub streak"/>
-</a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raajz49" alt="GitHub Streak" /></a>
 </p>
 
 
